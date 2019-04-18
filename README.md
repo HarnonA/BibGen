@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BibGen
 
 ![BibGen](bibgen.png)</br>
@@ -64,3 +65,6 @@ And also Oxyde theme.
 * Util
 
     The utilities for entities and components such as: users, books, tables, columns and hibernate connection.
+=======
+# BibGen
+>>>>>>> 44389437f2fe81040e728772549acf2ce5468081
